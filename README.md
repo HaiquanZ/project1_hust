@@ -1,1 +1,1 @@
-# project1_hust
+# Môn học: Project 1
